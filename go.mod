@@ -15,7 +15,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
-	github.com/valyala/fasttemplate v1.2.1
+	github.com/valyala/fasttemplate v1.2.2
 	github.com/xanzy/go-gitlab v0.50.0
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a

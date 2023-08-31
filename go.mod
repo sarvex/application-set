@@ -8,7 +8,7 @@ require (
 	github.com/argoproj/pkg v0.11.1-0.20211203175135-36c59d8fafe0
 	github.com/go-logr/logr v1.2.4
 	github.com/google/go-github/v35 v35.0.0
-	github.com/imdario/mergo v0.3.12
+	github.com/imdario/mergo v0.3.16
 	github.com/jeremywohl/flatten v1.0.1
 	github.com/ktrysmt/go-bitbucket v0.9.40
 	github.com/mitchellh/mapstructure v1.4.3 // indirect

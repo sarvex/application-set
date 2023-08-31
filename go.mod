@@ -10,7 +10,7 @@ require (
 	github.com/google/go-github/v35 v35.0.0
 	github.com/imdario/mergo v0.3.12
 	github.com/jeremywohl/flatten v1.0.1
-	github.com/ktrysmt/go-bitbucket v0.9.40
+	github.com/ktrysmt/go-bitbucket v0.9.66
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sirupsen/logrus v1.8.1
